@@ -40,13 +40,9 @@ h4 {
 }
 .img-responsive {
     background-color: tan;
-    height: 80vh;
-    width: 55vh;
     padding: 0px;
     border-color: lightgray;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-left: 15%;
-    margin-right: 10%;
 }
 .form-inline{
     margin:0;
